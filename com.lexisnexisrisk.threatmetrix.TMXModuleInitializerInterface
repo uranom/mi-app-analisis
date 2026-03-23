@@ -1,0 +1,3 @@
+com.lexisnexisrisk.threatmetrix.TMXAuthenticationInitializer
+com.lexisnexisrisk.threatmetrix.TMXBehavioSecInitializer
+com.lexisnexisrisk.threatmetrix.TMXDeviceSecurityHealthInitializer
