@@ -1,0 +1,1 @@
+syntax = "proto3";option java_package = "mx.com.superapp.gssaservicecoordinator";option java_multiple_files = true;message AccountStore {  string user_hash         = 1;  string number            = 2;  string card              = 3;  string keycode           = 4;  string total_balance     = 5;  string available_balance = 6;}
