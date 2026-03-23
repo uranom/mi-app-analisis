@@ -91,12 +91,28 @@
     "description": "Samsung J7",
     "backFacingPreviewSize": [1280, 720]
   },
-  "on7xreflte::SM-G611F, gtaxlwifi::SM-T580, gtaxlwifichn::SM-T580, on5xelte::SM-G570F, on5xelteins::SM-G570F, on7xelte::SM-G610F, j4lte::SM-J400M, j4lte::SM-J400F, j6lte::SM-J600F, j6lte::SM-J600G, on5xelte::SM-G570Y, j2corelte::SM-J260F, j2corelte::SM-J260M, j2corelte::SM-J260MU": {
+  "on7xreflte::SM-G611F, gtaxlwifi::SM-T580, gtaxlwifichn::SM-T580, on5xelte::SM-G570F, on5xelteins::SM-G570F, on7xelte::SM-G610F, j4lte::SM-J400M, j4lte::SM-J400F, j6lte::SM-J600F, j6lte::SM-J600G, on5xelte::SM-G570Y, j2corelte::SM-J260F, j2corelte::SM-J260M, j2corelte::SM-J260MU, gtactive2::SM-T390, gtactive2wifi::SM-T390, gtactive2lte::SM-T390, gtactive2lte::SM-T395": {
     "description": "Samsung devices with broken aspect ratio",
     "forceUseLegacyCamera": "*"
   },
   "WP8_Pro::WP8 Pro": {
     "description": "Oukitel WP8 Pro front camera problem",
+    "forceUseLegacyCamera": "*"
+  },
+  "RMX2144L1::RMX2144": {
+    "description": "Realme X50 5G camera2 in legacy mode problem",
+    "forceUseLegacyCamera": "*"
+  },
+  "lv1::LG-M151,lv1::LGL157BL,lv1::LGL57BL,lv1::LG-M160,e1q::LG-K120GT,e1q::LG-K121,e1q::VS425": {
+    "description": "LG K4 (2017) camera2 does not work",
+    "forceUseLegacyCamera": "*"
+  },
+  "nio::moto g(100)": {
+    "description": "Motorola Moto G100 camera2 does not work",
+    "forceUseLegacyCamera": "*"
+  },
+  "cyprus64::moto e40,cyprus64::cyprus64": {
+    "description": "Motorola Moto E40 camera2 does not work",
     "forceUseLegacyCamera": "*"
   }
 }
