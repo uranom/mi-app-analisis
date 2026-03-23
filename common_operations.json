@@ -1,0 +1,32 @@
+{
+  "commonOperationsList": [
+    {
+      "title": "Pagar",
+      "prioridad": 1,
+      "imageResourceAz": "ic_sds_pay_white",
+      "imageResourceDark": "ic_sds_pay_black",
+      "flowCommonOpType": "PAY"
+    },
+    {
+      "title": "Enviar",
+      "prioridad": 2,
+      "imageResourceAz": "ic_sds_send_money_white",
+      "imageResourceDark": "ic_sds_send_money_black",
+      "flowCommonOpType": "SEND"
+    },
+    {
+      "title": "Retirar",
+      "prioridad": 3,
+      "imageResourceAz": "ic_sds_retirar_white",
+      "imageResourceDark": "ic_sds_retirar_black",
+      "flowCommonOpType": "RETIRAR"
+    },
+    {
+      "title": "Cobrar",
+      "prioridad": 4,
+      "imageResourceAz": "ic_sds_charge_white",
+      "imageResourceDark": "ic_sds_charge_black",
+      "flowCommonOpType": "CHARGE"
+    }
+  ]
+}
