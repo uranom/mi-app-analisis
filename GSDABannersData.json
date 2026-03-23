@@ -1,0 +1,82 @@
+{
+  "eventBanner": [
+    "banner_explorar_body_110",
+    "banner_explorar_body_112",
+    "banner_explorar_body_113",
+    "banner_explorar_body_114",
+    "banner_explorar_body_115",
+    "banner_explorar_body_116",
+    "banner_explorar_body_117",
+    "banner_explorar_body_118",
+    "banner_explorar_body_119",
+    "banner_buscador_header_600",
+    "banner_buscador_header_601",
+    "banner_elektra_body_800",
+    "banner_TVAzteca_body_900"
+  ],
+  "enrichedDashboard": {
+    "eventBanner": "banner_categorias",
+    "banners": [
+      {
+        "category": "telefonia",
+        "position": "200"
+      },
+      {
+        "category": "telefonia",
+        "position": "201"
+      },
+      {
+        "category": "telefonia",
+        "position": "202"
+      },
+      {
+        "category": "belleza_y_cuidado_personal",
+        "position": "200"
+      },
+      {
+        "category": "belleza_y_cuidado_personal",
+        "position": "201"
+      },
+      {
+        "category": "belleza_y_cuidado_personal",
+        "position": "202"
+      },
+      {
+        "category": "zapatos",
+        "position": "200"
+      },
+      {
+        "category": "zapatos",
+        "position": "201"
+      },
+      {
+        "category": "zapatos",
+        "position": "202"
+      },
+      {
+        "category": "linea_blanca",
+        "position": "200"
+      },
+      {
+        "category": "linea_blanca",
+        "position": "201"
+      },
+      {
+        "category": "linea_blanca",
+        "position": "202"
+      },
+      {
+        "category": "electronica",
+        "position": "200"
+      },
+      {
+        "category": "electronica",
+        "position": "201"
+      },
+      {
+        "category": "electronica",
+        "position": "202"
+      }
+    ]
+  }
+}

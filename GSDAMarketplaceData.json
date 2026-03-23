@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "type": "GSMPAddressItem"
+    },
+    {
+      "category_tag": "header",
+      "type": "GSMPSectionBannerPromos",
+      "sectionElektraPromoAds": {
+        "useMiddlewareData": false,
+        "ektPromoAds": [
+          {
+            "criteriosConsulta": {
+              "id": 1,
+              "nombre": "productos",
+              "producto": {
+                "filtro": "",
+                "ordenamiento": "",
+                "caracteristicas": "category 1/telefonia/category 2/celulares/brand/motorola"
+              },
+              "seccion": {
+                "id": 0,
+                "caracteristicas": "NA",
+                "nombre": "NA"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UConectividad_Telefonia_Celulares_Venta_Bodega_Mes_Motorola_50descto_W10_Home_1_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 2,
+              "nombre": "secciones",
+              "producto": {
+                "filtro": "NA",
+                "ordenamiento": "NA",
+                "caracteristicas": "NA"
+              },
+              "seccion": {
+                "id": 3,
+                "caracteristicas": "2057",
+                "nombre": "Perfumes"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UNuevas_Categorias_Belleza_y_cuidado_personal_Perfumes_y_lociones_60descto_W10_Home_3_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 1,
+              "nombre": "productos",
+              "producto": {
+                "filtro": "",
+                "ordenamiento": "",
+                "caracteristicas": "category-1/motos/category-2/motocicletas/category-3/trabajo/"
+              },
+              "seccion": {
+                "id": 0,
+                "caracteristicas": "NA",
+                "nombre": "NA"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UMovilidad_Motos_Moto_Sale_40descto_W10_Home_4_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 2,
+              "nombre": "secciones",
+              "producto": {
+                "filtro": "NA",
+                "ordenamiento": "NA",
+                "caracteristicas": "NA"
+              },
+              "seccion": {
+                "id": 3,
+                "caracteristicas": "2068",
+                "nombre": "Todo para tu viaje"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UNuevas_Categorias_Preparate_para_las_vacaciones_50descto_W10_Home_5_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 1,
+              "nombre": "productos",
+              "producto": {
+                "filtro": "",
+                "ordenamiento": "",
+                "caracteristicas": "category-1/motos/category-2/motocicletas/category-3/urbanas/"
+              },
+              "seccion": {
+                "id": 0,
+                "caracteristicas": "NA",
+                "nombre": "NA"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UMovilidad_Motos_Linea_Z_Moto_Sale_30descto_W10_Home_7_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 2,
+              "nombre": "secciones",
+              "producto": {
+                "filtro": "NA",
+                "ordenamiento": "NA",
+                "caracteristicas": "NA"
+              },
+              "seccion": {
+                "id": 3,
+                "caracteristicas": "160",
+                "nombre": ""
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/W10_2024/01-Carrusel-W10-App/UHogar_Muebles_Fiesta_del_Mueble_Sala_Esquinera_Paris_3_plazas_50descto_W10_Home_8_Carrusel.webp"
+          },
+          {
+            "criteriosConsulta": {
+              "id": 1,
+              "nombre": "productos",
+              "producto": {
+                "filtro": "sognare",
+                "ordenamiento": "",
+                "caracteristicas": "category 1/colchones y boxes/sellername/sognare"
+              },
+              "seccion": {
+                "id": 0,
+                "caracteristicas": "NA",
+                "nombre": "NA"
+              }
+            },
+            "urlImagen": "https://s3.amazonaws.com/s3.staticcontent.ekt/banners/img_banners/w9_2024/Tecno_Furor_UHogar_Colchones_y_boxes_Lanzamiento_Colchones_Sognare_30descto_W9_Home_8_Carrusel.webp"
+          }
+        ]
+      }
+    },
+    {
+      "section": "800",
+      "viewType": "bannerElement"
+    },
+    {
+      "type": "GSMPSectionHottest",
+      "sectionLimitedTimOffers": {
+        "tittle": "Lo más hot"
+      }
+    },
+    {
+      "type": "GSMPSectionDiscover",
+      "sectionLimitedTimOffers": {
+        "tittle": "Descubre",
+        "textButton": "Mostrar más departamentos"
+      }
+    },
+    {
+      "type": "GSMPSectionPopularCategories",
+      "sectionLimitedTimOffers": {
+        "tittle": "Categorías populares"
+      }
+    },
+    {
+      "type": "GSMPSectionQuickOffers",
+      "sectionLimitedTimOffers": {
+        "tittle": "Oferta relámpago"
+      }
+    },
+    {
+      "type": "GSMPAdvantagesElektraCard"
+    }
+  ]
+}

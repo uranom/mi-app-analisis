@@ -1,0 +1,474 @@
+{
+  "data": [
+    {
+      "sectionBanner": "110",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding3"
+    },
+    {
+      "sectionBanner": "111",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding4"
+    },
+    {
+      "section": "102",
+      "viewType": "horizontalScroll",
+      "padding": "GSDAPadding5",
+      "data": [
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/telefonia.png",
+          "title": "Telefonía",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Telefonia",
+              "category": "telefonia",
+              "title": "Telefonía"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Pruebas/moneyfreeflex.png",
+          "title": "Bitcoin",
+          "action": {
+            "flowName": "GSIFBitcoin"
+          },
+          "meta": {
+            "bgColor": "GSVCCardsDarkNight",
+            "titleColor": "GSVCPrimary"
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/electronicos.png",
+          "title": "Electrónica",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Electronica",
+              "category": "electronica",
+              "title": "Electrónica"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/colchones.png",
+          "title": "Colchones y Boxes",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Colchones y Boxes",
+              "category": "colchones_y_boxes",
+              "title": "Colchones y Boxes"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/lineablanca.png",
+          "title": "Línea blanca",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Linea blanca",
+              "category": "linea_blanca",
+              "title": "Línea blanca"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/motos.png",
+          "title": "Motos",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Motos",
+              "category": "motos",
+              "title": "Motos"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/computo.png",
+          "title": "Cómputo",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Computo",
+              "category": "computo",
+              "title": "Cómputo"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/videojuegos.png",
+          "title": "Videojuegos",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Videojuegos",
+              "category": "videojuegos",
+              "title": "Videojuegos"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/bellezaycuidadopersonal.png",
+          "title": "Belleza y Cuidado Personal",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Belleza y Cuidado personal",
+              "category": "belleza_y_cuidado_personal",
+              "title": "Belleza y Cuidado de la Piel"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/muebles.png",
+          "title": "Muebles",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Muebles",
+              "category": "muebles",
+              "title": "Muebles"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/deportes.png",
+          "title": "Deportes",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Deportes",
+              "category": "deportes",
+              "title": "Deportes"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/hogar.png",
+          "title": "Hogar",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Hogar",
+              "category": "hogar",
+              "title": "Hogar"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/zapatos.png",
+          "title": "Zapatos",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Zapatos",
+              "category": "zapatos",
+              "title": "Zapatos"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/modayaccesorios.png",
+          "title": "Moda y accesorios",
+          "action": {
+            "flowName": "GSFRichDashboard",
+            "params": {
+              "section": "GSFRichDashboard",
+              "navigation": "category-1/Moda y accesorios",
+              "category": "moda_y_accesorios",
+              "title": "Moda y accesorios"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/todas.png",
+          "title": "Todas",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "flowName": "GSIFCategories"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section": "103",
+      "viewType": "gridScroll",
+      "padding": "GSDAPadding2",
+      "header": {
+        "title": "Compra por tienda Miau!!!!!",
+        "action": {
+          "flowName": "GSSADash_Directory"
+        }
+      }
+    },
+    {
+      "section": "102",
+      "viewType": "productsElementsGrid",
+      "header": {
+        "title": "Más vendido en shopinbaz",
+        "action": {
+          "flowName": "GSIFBestSeller",
+          "params": {
+            "flowName": "GSIFBestSeller"
+          }
+        }
+      }
+    },
+    {
+      "sectionBanner": "118",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding7"
+    },
+    {
+      "sectionBanner": "112",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding4"
+    },
+    {
+      "section": "105",
+      "viewType": "verticalScroll",
+      "padding": "GSDAPadding2",
+      "data": [
+        {
+          "viewType": "storyLy",
+          "meta": {
+            "origin": "inicio",
+            "textButtonColor": "Dale un vistazo"
+          }
+        }
+      ]
+    },
+    {
+      "sectionBanner": "117",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding3"
+    },
+    {
+      "sectionBanner": "115",
+      "viewType": "bannerElement",
+      "padding": "GSDACarousel"
+    },
+    {
+      "section": "120",
+      "viewType": "verticalScroll",
+      "padding": "GSDAPadding2",
+      "data": [
+        {
+          "viewType": "adBanner",
+          "meta": {
+            "banner": "/29782907/super-app-baz",
+            "bannerWidth": "328",
+            "bannerHeight": "124"
+          }
+        }
+      ]
+    },
+    {
+      "section": "105",
+      "viewType": "productsElements",
+      "header": {
+        "title": "Ofertas exprés",
+        "action": {
+          "flowName": "GSIFPLPOffers",
+          "params": {
+            "flowName": "GSIFPLPOffers"
+          }
+        }
+      }
+    },
+    {
+      "sectionBanner": "116",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding7"
+    },
+    {
+      "section": "109",
+      "viewType": "horizontalScroll",
+      "padding": "GSDAPadding6",
+      "header": {
+        "title": "Todo lo que necesitas en una sola app"
+      },
+      "data": [
+        {
+          "viewType": "imageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/Caratula.png",
+          "title": "Pago de servicio",
+          "action": {
+            "flowName": "GSBDPayService"
+          }
+        },
+        {
+          "viewType": "imageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/Caratula-2.png",
+          "title": "Contrata Totalplay",
+          "action": {
+            "flowName": "GSIFTotalPlay"
+          }
+        },
+        {
+          "viewType": "imageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/Caratula-1.png",
+          "title": "Paga con código QR en lugares cercanos",
+          "action": {
+            "flowName": "GSIFBsBuyerFlow"
+          }
+        }
+      ]
+    },
+    {
+      "section": "110",
+      "viewType": "verticalScroll",
+      "padding": "GSDAPadding1",
+      "data": [
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/bitcoin_isla.png",
+          "title": "Money Free Flex",
+          "subTitle": "Compra y vende Bitcoin",
+          "action": {
+            "flowName": "GSIFBitcoin"
+          }
+        },
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/dash/malinche.png",
+          "title": "Malinche",
+          "subTitle": "¡Disfruta este musical que celebra nuestras raices!.",
+          "meta": {
+            "bgColor": "https://imagenes.superappbaz.com/banners/dash/malinchelogo3.png"
+          },
+          "action": {
+            "flowName": "https://feverup.com/m/273924?thm=2841?utm_source=landing&utm_medium=partner&utm_campaign=273924_mex&utm_content=shopinbaz&utm_term=30013"
+          }
+        },
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/Caratula-6.png",
+          "title": "bet365",
+          "subTitle": "¡En los partidos más grandes todos en un mismo lugar!",
+          "meta": {
+            "bgColor": "https://imagenes.superappbaz.com/banners/Etapas/sapp/photo_2024-07-01_16-04-17.jpg"
+          },
+          "action": {
+            "flowName": "https://landing.baz.app/index.html"
+          }
+        },
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/ImagenDePrestaPrenda.png",
+          "title": "Presta Prenda",
+          "subTitle": "Paga tu préstamo y tus piezas de oro ¡fácil y rápido!",
+          "action": {
+            "flowName": "GSBDPrestaPrendaPay"
+          }
+        }
+      ]
+    },
+    {
+      "sectionBanner": "119",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding3"
+    },
+    {
+      "section": "109",
+      "viewType": "productsElements",
+      "header": {
+        "title": "Más rebajas",
+        "action": {
+          "flowName": "GSIFApCLP",
+          "params": {
+            "flowName": "GSIFApCLP",
+            "deep_link_value": "dashboard",
+            "flow": "plp",
+            "tituloCategoria": "Calzado"
+          }
+        }
+      }
+    },
+    {
+      "section": "107",
+      "viewType": "verticalScroll",
+      "padding": "GSDACarousel",
+      "header": {
+        "title": "¡También hay diversión!",
+        "action": {
+          "flowName": "GSFSection_TVA"
+        }
+      },
+      "data": [
+        {
+          "viewType": "freeEntertainment"
+        }
+      ]
+    },
+    {
+      "sectionBanner": "114",
+      "padding": "GSDACarousel",
+      "viewType": "bannerElement"
+    },
+    {
+      "sectionBanner": "119",
+      "viewType": "bannerElement",
+      "padding": "GSDAPadding3"
+    },
+    {
+      "section": "110",
+      "viewType": "verticalScroll",
+      "padding": "GSDAPadding1",
+      "data": [
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Isla_Servicios_Financieros/afore.png",
+          "title": "Afore Azteca",
+          "subTitle": "Lleva el control de tu ahorro.",
+          "textButton": "servicios financieros",
+          "action": {
+            "flowName": "GSIFAforeShop"
+          }
+        },
+        {
+          "viewType": "verticalImageCard",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Isla_Servicios_Financieros/segurosazteca.png",
+          "title": "Seguros Azteca",
+          "subTitle": "Seguros de lo que te importa.",
+          "textButton": "servicios_financieros",
+          "action": {
+            "flowName": "GSIFAssuranceShop"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "type": "GSETStoryLyContainer",
+      "category_tag": "Header",
+      "subflow": "subflow_analytics",
+      "origin": "diversion"
+    },
+    {
+      "type": "GSETLiveTvContainer",
+      "category_tag": "Header",
+      "subflow": "subflow_analytics1"
+    },
+    {
+      "type": "GSETVodOutstandingContainer",
+      "subflow": "subflow_analytics2",
+      "tvOutstanding": {
+        "title": "¡Que empiece el maratón!",
+        "subTitle": "Disfruta nuestras series, películas, novelas y contenido exclusivo."
+      }
+    },
+    {
+      "type": "GSETVodTrendContainer",
+      "subflow": "subflow_analytics3",
+      "vodTrendContainer": {
+        "title": "En tendencia",
+        "textFooter": "Conoce todo el catálogo"
+      }
+    },
+    {
+      "type": "GSETMusicPodcastContainer",
+      "subflow": "subflow_analytics4",
+      "musicPodcastContainer": {
+        "title": "¡Súbele al volumen!",
+        "subTitle": "Canales de música y podcast sin interrupciones."
+      }
+    },
+    {
+      "section": "900",
+      "viewType": "bannerElement"
+    },
+    {
+      "type": "GSETGamesContainer",
+      "subflow": "subflow_analytics6",
+      "gamesModel": {
+        "title": "Juega y olvídate del estrés"
+      }
+    },
+    {
+      "type": "GSMPSectionCreditPurchases",
+      "subflow": "subflow_analytics7",
+      "sectionCreditPurchases": {
+        "slider": {
+          "tagOrigin": "entretenimiento",
+          "tagSubFlow": "acceso_compras",
+          "textButton": "Mostrar todos los productos"
+        }
+      }
+    },
+    {
+      "type": "GSETNewsContainer",
+      "subflow": "subflow_analytics9",
+      "category_tag": "Bottom",
+      "newsCard": {
+        "title": "¡Extra, extra!",
+        "subTitle": "De esto están hablando en México y el mundo."
+      }
+    }
+  ]
+}

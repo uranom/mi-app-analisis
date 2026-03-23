@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "viewType": "commonUI",
+      "data": [
+        {
+          "viewType": "topBarSection",
+          "imageUrl": "https://www.pngall.com/wp-content/uploads/14/Hoodie-Background-PNG.png",
+          "title": "baz",
+          "meta": {
+            "selectedColor": "GSVCInteractions",
+            "unselectedColor": "#EC407A"
+          },
+          "action": {
+            "value": "GSDAExploreScreen"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "commonUI",
+      "data": [
+        {
+          "viewType": "bottomBarButton",
+          "title": "Inicio",
+          "meta": {
+            "selectedColor": "GSVCSBInteractions",
+            "unselectedColor": "GSVCSBPromosLevelSilver"
+          },
+          "action": {
+            "value": "GSSADash_Explore"
+          },
+          "icon": "gsvc_fill_home"
+        },
+        {
+          "viewType": "bottomBarButton",
+          "title": "Tiendas",
+          "meta": {
+            "selectedColor": "GSVCSBInteractions",
+            "unselectedColor": "GSVCSBPromosLevelSilver"
+          },
+          "action": {
+            "value": "GSSADash_Directory"
+          },
+          "icon": "gsvc_fill_store"
+        },
+        {
+          "viewType": "bottomBarButton",
+          "title": "Beneficios",
+          "meta": {
+            "selectedColor": "GSVCSBInteractions",
+            "unselectedColor": "GSVCSBPromosLevelSilver"
+          },
+          "action": {
+            "value": "GSSADash_Benefits"
+          },
+          "icon": "gsvc_fill_cupon"
+        },
+        {
+          "viewType": "bottomBarButton",
+          "title": "Perfil",
+          "meta": {
+            "selectedColor": "GSVCSBInteractions",
+            "unselectedColor": "GSVCSBPromosLevelSilver"
+          },
+          "action": {
+            "value": "GSIFPrf"
+          },
+          "icon": "gsvc_fill_user_circle"
+        }
+      ]
+    },
+    {
+      "viewType": "commonUI",
+      "data": [
+        {
+          "viewType": "modal",
+          "imageUrl": "https://imagenes.superappbaz.com/banners/Etapas/sapp/Rectangle%204113.png",
+          "title": "¡Es momento de estrenar!",
+          "subTitle": "Encuentra tus marcas favoritas, compra de manera segura y aprovecha cupones de descuento.",
+          "description": "Conoce el aviso de privacidad y los términos y condiciones.",
+          "linkedWords": [
+            {
+              "bold": "aviso de privacidad",
+              "tag": "aviso_privacidad",
+              "valueTag": "Aviso de privacidad|https://legal.baz.app/legales/superapp/avisodeprivacidadsuperapp.html"
+            },
+            {
+              "bold": "términos y condiciones",
+              "tag": "terminos_condiciones",
+              "valueTag": "Términos y condiciones|https://legal.baz.app/legales/superapp/terminosycondicionessuperapp.html"
+            }
+          ],
+          "textButton": "Entendido"
+        }
+      ]
+    },
+    {
+      "viewType": "commonUI",
+      "data": [
+        {
+          "viewType": "walkThrough",
+          "title": "Configura tus notificaciones",
+          "subTitle": "Elige qué mensajes de shopinbaz quieres recibir en tu celular.",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Walkthough/slide_1.png",
+          "textButton": "Configurar",
+          "secondaryButton": "Continuar",
+          "action": {
+            "flowName": "GSFFilterScreen"
+          }
+        },
+        {
+          "viewType": "walkThrough",
+          "title": "Entra al banco",
+          "subTitle": "Toca el logo de Banco Azteca cuando necesites volver a la App.",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Walkthough/slide_2.png",
+          "secondaryButton": "Continuar"
+        },
+        {
+          "viewType": "walkThrough",
+          "title": "Te regalamos cupones",
+          "subTitle": "Canjea nuestras promociones en muchos establecimientos.",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Walkthough/slide_3.png",
+          "secondaryButton": "Continuar"
+        },
+        {
+          "viewType": "walkThrough",
+          "title": "Seguimiento a tus compras",
+          "subTitle": "Rastrea tus compras y ten el control de tus pedidos en el Historial de compras.",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/Dashboard/Walkthough/slide_4.png",
+          "textButton": "Entendido"
+        }
+      ]
+    }
+  ]
+}

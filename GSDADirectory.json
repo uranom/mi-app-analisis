@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "section": "100",
+      "viewType": "horizontalScroll",
+      "header": {
+        "title": "Compra por categoría"
+      },
+      "data": [
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/juguetes.png",
+          "title": "Juguetes",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Juguetes",
+              "idCategory": "1371648002",
+              "ordenamiento": "",
+              "navigationCategory": ""
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/videojuegos.png",
+          "title": "Videojuegos",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Videojuegos",
+              "idCategory": "1371652",
+              "navigationCategory": "category-1/Videojuegos"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/deportes.png",
+          "title": "Deportes",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Deportes",
+              "idCategory": "1371649",
+              "navigationCategory": "category-1/Deportes"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/automotriz.png",
+          "title": "Automotriz",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Automotriz",
+              "idCategory": "1371651",
+              "navigationCategory": "category-1/Automotriz"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/lineablanca.png",
+          "title": "Línea blanca",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Línea blanca",
+              "idCategory": "1371645",
+              "navigationCategory": "category-1/Linea blanca"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/telefonia.png",
+          "title": "Telefonía",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Telefonía",
+              "idCategory": "1371655",
+              "navigationCategory": "category-1/Telefonia"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/electronicos.png",
+          "title": "Electrónica",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Electrónica",
+              "idCategory": "1371643",
+              "navigationCategory": "category-1/Electronica"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/ropa.png",
+          "title": "Ropa",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Ropa",
+              "idCategory": "4675695",
+              "navigationCategory": "category-1/Ropa"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/zapatos.png",
+          "title": "Zapatos",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Zapatos",
+              "idCategory": "700976",
+              "navigationCategory": "category-1/Zapatos"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/muebles.png",
+          "title": "Muebles",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Muebles",
+              "idCategory": "4673714",
+              "navigationCategory": "category-1/Muebles"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-Categorias/hogar.png",
+          "title": "Hogar",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Hogar",
+              "idCategory": "1371641",
+              "navigationCategory": "category-1/Hogar"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/colchones.png",
+          "title": "Colchones",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "idFlow": "Colchones",
+              "idCategory": "1371640",
+              "navigationCategory": "category-1/Colchones y Boxes"
+            }
+          }
+        },
+        {
+          "viewType": "categoriesElement",
+          "imageUrl": "https://gestor-contenido.baz.app/Centro-Comercial/logos-categorias-shopinbaz/todas.png",
+          "title": "Todas",
+          "action": {
+            "flowName": "GSIFSA",
+            "params": {
+              "flowName": "GSIFCategories"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

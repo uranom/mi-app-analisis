@@ -1,0 +1,57 @@
+[
+    {
+      "titleSection": "Para ti",
+      "typeConfig": [
+        {
+          "titleConfig": "Lo más relevante",
+          "iconConfig": "gsvc_dt_positive_user_check"
+        },
+        {
+          "titleConfig": "Ofertas y promociones",
+          "iconConfig": "gsvc_dt_positive_sale"
+        },
+        {
+          "titleConfig": "Negocios cerca de ti",
+          "iconConfig": "gsvc_dt_positive_store"
+        },
+        {
+          "titleConfig": "Horóscopos",
+          "iconConfig": "gsvc_dt_positive_box_star"
+        },
+        {
+          "titleConfig": "Consejos",
+          "iconConfig": "gsvc_dt_positive_check"
+        },
+        {
+          "titleConfig": "Canal baz",
+          "iconConfig": "ic_gsvc_ic_canal_baz"
+        }
+      ]
+    },
+    {
+      "titleSection": "Para entretenerte",
+      "typeConfig": [
+        {
+          "titleConfig": "Series y novelas",
+          "iconConfig": "gsvc_dt_positive_tv_play"
+        },
+        {
+          "titleConfig": "TV en vivo",
+          "iconConfig": "gsvc_dt_positive_tv_signal"
+        },
+        {
+          "titleConfig": "Música",
+          "iconConfig": "gsvc_dt_positive_music"
+        },
+        {
+          "titleConfig": "Juegos",
+          "iconConfig": "gsvc_dt_positive_games"
+        },
+        {
+          "titleConfig": "Noticias",
+          "iconConfig": "gsvc_dt_positive_newspaper"
+        }
+      ]
+    }
+  ]
+
